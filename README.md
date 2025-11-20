@@ -147,45 +147,6 @@ npm start
 
 ---
 
-##  Como Demonstrar os Requisitos na Apresentação
-
-Sugestão de fluxo para o vídeo/demo da disciplina:
-
-1. **Tela de Perfil**
-
-   * Preencher nome, situação atual e objetivo.
-   * Salvar e mostrar que o app navega para o dashboard.
-
-2. **Avaliação de Habilidades**
-
-   * Abrir a tela de avaliação a partir do dashboard.
-   * Preencher alguns níveis de skills (0 a 5).
-   * Salvar e voltar para o dashboard.
-
-3. **Recomendações de Trilhas**
-
-   * Mostrar as trilhas sugeridas com base nas habilidades e objetivo.
-   * Explicar rapidamente o alinhamento com o tema **“Futuro do Trabalho”**.
-
-4. **Gamificação e Progresso**
-
-   * Abrir uma trilha (tela de detalhes).
-   * Marcar módulos como concluídos.
-   * Mostrar XP, nível e badges sendo atualizados.
-
-5. **Persistência com AsyncStorage**
-
-   * Fechar o app.
-   * Reabrir e mostrar que:
-
-     * Perfil continua salvo;
-     * Avaliação de habilidades permanece;
-     * Progresso nas trilhas e XP continuam consistentes.
-
-Isso comprova o uso correto do **AsyncStorage** e atende aos requisitos da disciplina.
-
----
-
 ##  Tema: Futuro do Trabalho
 
 O REFRAME foi pensado para dialogar diretamente com o tema **“O Futuro do Trabalho”** ao:
